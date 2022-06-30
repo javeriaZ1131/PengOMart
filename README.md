@@ -8,8 +8,8 @@
  The log in ,signup functionality is also implemented in it with proper database management.
  on selecting the particular item domain it give access to all the items related to it.  which provide the ease to search the item quickly.
  
- 
- 
+ The front end html pages and their designing of all the webpages required are designed separately.
+ To run the program , the website will be displayed when the user log in or sign up the website and then will able to see the details.
 
  
  
