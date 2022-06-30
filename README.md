@@ -5,7 +5,11 @@
  
  The Groceries domain covered in this are meat and seafood, snacks,fruits and vegetables as separate domain.
  
- The log in signup functionality is also implemented in it with proper database management.
+ The log in ,signup functionality is also implemented in it with proper database management.
+ on selecting the particular item domain it give access to all the items related to it.  which provide the ease to search the item quickly.
+ 
+ 
+ 
 
  
  
