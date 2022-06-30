@@ -11,5 +11,9 @@
  The front end html pages and their designing of all the webpages required are designed separately.
  To run the program , the website will be displayed when the user log in or sign up the website and then will able to see the details.
 
+ All the related files have been attached for the convienience. 
  
+ That is all. Hope you like my work.
+
+Thank you.
  
